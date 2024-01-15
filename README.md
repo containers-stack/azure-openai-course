@@ -16,14 +16,14 @@ Explore the code snippets and examples showcased in my YouTube videos covering A
 - [ ] ...
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/yourusername/Azure-OpenAI-Course-Demos.git`
+1. Clone the repository: `git clone https://github.com/containers-stack/azure-openai-course`
 2. Explore the code for each demo in the corresponding directory.
-3. Watch the detailed tutorial on [YouTube Channel Name] for a step-by-step walkthrough.
+3. Watch the detailed tutorial on https://www.youtube.com/playlist?list=PLAr1j1wRu451JCetxWNwie8C4nOfLaCCb for a step-by-step walkthrough.
 
 ## Contributions
 - 🌟 Contributions and feedback are welcome! Feel free to open issues and pull requests.
 
 ## YouTube Channel
-🎥 [Your YouTube Channel Name](https://www.youtube.com/yourchannel)
+🎥 [Join My YouTube Channel](https://www.youtube.com/channel/UCFpJ_CabYQ23vW6FmSple0A)
 
 Happy coding and exploring the exciting world of Azure OpenAI!
