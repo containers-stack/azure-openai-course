@@ -13,7 +13,7 @@ Explore the code snippets and examples showcased in my YouTube videos covering A
 ## Contents
 - [ ] Azure OpenAI - Intro: https://youtu.be/QrPjWJne8oo?si=-rqLippeo5FigXRH 
 - [ ] Azure OpenAI - On yor data (Part 1): https://youtu.be/wpFNg1F3aBA
-- [ ] ...
+- [ ] Azure OpenAI - What it is emmbedding (Part 2): https://youtu.be/Z6dyXCOpfO0
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/containers-stack/azure-openai-course`
